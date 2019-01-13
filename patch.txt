@@ -1,1 +1,6 @@
-this patch is about creating the slave barnches
+This notes is about creating the slave
+
+Now deleted changes only for the master
+
+
+because of the checkout comits are over writen don't use the only checkout
