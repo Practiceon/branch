@@ -10,3 +10,5 @@ this patch is about creating the slave barnches
 
 i can commiting from the slave.
 >>>>>>> slave1
+
+i want know how to pull the changes
