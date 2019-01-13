@@ -1,1 +1,3 @@
 this patch is about creating the slave barnches
+
+This branch is to check the commiting the changes after the one branch release the function the how it will work, So the switching of the system will come to know.
