@@ -1,3 +1,7 @@
 this patch is about creating the slave barnches
 
+<<<<<<< HEAD
 i can commiting from the slave.
+=======
+This branch is to check the commiting the changes after the one branch release the function the how it will work, So the switching of the system will come to know.
+>>>>>>> thirsty
