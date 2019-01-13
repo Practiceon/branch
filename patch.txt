@@ -1,1 +1,3 @@
 this patch is about creating the slave barnches
+
+i can commiting from the slave.
